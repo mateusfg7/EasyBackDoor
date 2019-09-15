@@ -215,7 +215,7 @@ if [ -e $figlet ];then
     clear
     figlet "Easy BackDoor"
     sleep 0.2
-    echo -e "         \033[01;32mby \033[00;00;00m \033[00;34m@\033[00;00;00m\033[01;30mArk-\033[00;00;00m\033[05;31mc3"
+   
 else
     echo -e "\033[00;33m+---------------+"
     echo -e "| \033[01;34mEasy BackDoor \033[00;33m|"
